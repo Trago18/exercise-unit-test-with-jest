@@ -1,6 +1,7 @@
 # Ignore everything
 /*
 
+!*.js
 !.gitignore
 !.gitpod.yml
 !.gitpod.Dockerfile
